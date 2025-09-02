@@ -4,7 +4,7 @@ This report summarizes findings on water access, usage patterns, safety, and bud
 
 ---
 
-## ✅ Key Recommendations
+## Key Recommendations
 1. **Reduce Long Queues & Improve Safety**  
    - Add more public taps  
    - Manage waiting times  
@@ -21,7 +21,7 @@ This report summarizes findings on water access, usage patterns, safety, and bud
 ---
 
 <details>
-<summary>📊 National Summary</summary>
+<summary> National Summary</summary>
 
 - **Population**: 17.6M (64%) rural, 10.0M (36%) urban  
 - **Main Water Sources**: wells (10.9K), shared taps (4.3K), tap-in-home, rivers, broken taps  
@@ -32,7 +32,7 @@ This report summarizes findings on water access, usage patterns, safety, and bud
 ---
 
 <details>
-<summary>🚰 Queue Summary</summary>
+<summary> Queue Summary</summary>
 
 - Average wait times at shared taps: **100–300 minutes**  
 - Longest queues: **Saturdays and Mondays**  
@@ -43,7 +43,7 @@ This report summarizes findings on water access, usage patterns, safety, and bud
 ---
 
 <details>
-<summary>🚨 Water-Related Crimes</summary>
+<summary> Water-Related Crimes</summary>
 
 - Women are the most frequent victims.  
 - Crimes peak on **Friday and Saturday nights (around 10 PM)**.  
@@ -54,7 +54,7 @@ This report summarizes findings on water access, usage patterns, safety, and bud
 ---
 
 <details>
-<summary>💰 Budget & Improvements</summary>
+<summary> Budget & Improvements</summary>
 
 - **Total national budget**: $146.74M  
 - **Improvements**: 64% increase in basic water access  
@@ -66,7 +66,7 @@ This report summarizes findings on water access, usage patterns, safety, and bud
 ---
 
 <details>
-<summary>📍 Provincial Highlights</summary>
+<summary> Provincial Highlights</summary>
 
 - **Akatsi**: $31.36M (rural-heavy, $5.23 per citizen)  
 - **Amanzi**: $13.43M (balanced rural/urban, $2.47 per citizen)  
@@ -78,7 +78,7 @@ This report summarizes findings on water access, usage patterns, safety, and bud
 
 ---
 
-## 📎 Notes
+##  Notes
 This report integrates findings from:  
 - National Summary  
 - Queue Analysis  
