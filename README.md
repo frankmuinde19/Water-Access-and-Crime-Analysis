@@ -9,7 +9,7 @@ This repository contains an integrated analysis of **water access, queue times, 
 - **Water Sources**: Wells (10.9K), Shared taps (4.3K), Tap-in-home (3.2K), Tap-in-home broken (2.9K), Rivers (2.4K)  
 - **Key Locations**: Harare, Amina, Mrembo, Lusaka, Zuri  
 
-![Water Sources by Type](https://app.powerbi.com/groups/me/reports/51a8686f-e5bb-4c16-b97f-4ac545fe1b33/b796edbb8a22f897303d?ctid=53a012be-f549-4474-afcf-556fe9a0c699&pbi_source=shareVisual&visual=0a1666bb9a46d3d1ff7e&height=315.80&width=470.34&bookmarkGuid=698a8e2f-e21f-4e7c-ad2f-11b9628d6d8a) 
+![Water Sources by Type]() 
 ![Water Sources by Location](figures/water_sources_location.png)  
 
 ---
