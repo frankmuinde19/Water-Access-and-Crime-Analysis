@@ -4,13 +4,8 @@ This repository contains an integrated analysis of **water access, queue times, 
 
 ---
 
-## 📊 National Summary  
-- **Population**: 27.6M (64% rural, 36% urban)  
-- **Water Sources**: Wells (10.9K), Shared taps (4.3K), Tap-in-home (3.2K), Tap-in-home broken (2.9K), Rivers (2.4K)  
-- **Key Locations**: Harare, Amina, Mrembo, Lusaka, Zuri  
+[![Water Sources by Location](figures/water_sources_location.png)](https://app.powerbi.com/groups/me/reports/51a8686f-e5bb-4c16-b97f-4ac545fe1b33/b796edbb8a22f897303d?ctid=53a012be-f549-4474-afcf-556fe9a0c699&pbi_source=shareVisual&visual=8327db4bb5e87f4716d2&height=697.11&width=371.23&bookmarkGuid=57dbdd78-2b6a-4f94-ab0a-b5bb4d7f4fa0)
 
-![Water Sources by Type]() 
-![Water Sources by Location](figures/water_sources_location.png)  
 
 ---
 
